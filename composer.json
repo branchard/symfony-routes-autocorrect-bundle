@@ -1,0 +1,18 @@
+{
+    "name": "branchard/routes-autocorrect-bundle",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Benoit Branchard",
+            "email": "benoit.branchard@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Branchard\\RoutesAutocorrectBundle\\": "src/"
+        }
+    },
+    "require": {}
+}
